@@ -1,7 +1,12 @@
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
-
+Ch09_Img_Segm/annotations_instance/training/ADE_train_*.png
+Ch09_Img_Segm/annotations_instance/validation/
+Ch09_Img_Segm/dataset1/
+Ch09_Img_Segm/images/
+output/
+train/
 *.egg-info/
 *.egg
 *.DS_Store
